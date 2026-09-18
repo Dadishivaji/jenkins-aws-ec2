@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Jenkins Installation on AWS EC2
 
 
@@ -539,4 +540,11 @@ B.Tech – Computer Science Engineering
 This project is created for learning and educational purposes.
 
 
+=======
+\# Git Lab
+
+
+
+This is my first Git repository.
+>>>>>>> b23eb1ede82a8550be911304fa6eeceb9f862d67
 
